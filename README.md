@@ -40,6 +40,7 @@
 <p>
   I'm actively looking for:
   <br>
+  
 - 🤝 Open Source Projects in Python/Django ecosystem
 
 - 🎯 Internship Opportunities as Fullstack Developer
