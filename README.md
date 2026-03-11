@@ -82,31 +82,6 @@
 
 ---
 
-## 📁 Featured Projects
-
-### 🔥 [Project 1: Django E-Commerce Platform](https://github.com/YOUR_USERNAME/project1)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
-
-A full-featured e-commerce platform built with Django, Bootstrap, and PostgreSQL.
-
-### 🚀 [Project 2: Task Management API](https://github.com/YOUR_USERNAME/project2)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens)
-
-REST API for task management with React frontend and JWT authentication.
-
-### 🎨 [Project 3: Portfolio Website](https://github.com/YOUR_USERNAME/project3)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
-
-Responsive portfolio website showcasing projects with modern CSS and JavaScript.
-
----
-
 ## 📊 Coding Activity
 
 ```python
